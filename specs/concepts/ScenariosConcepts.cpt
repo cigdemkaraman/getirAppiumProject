@@ -1,0 +1,27 @@
+#  Onboarding screens pass
+    * Click 'Next' button
+    * Click 'Next' button
+    * Click 'Next' button
+    * Click 'Next' button
+
+
+
+# Check if the home page exists
+    * Check that it tabs is shown correctly
+    * Check that it toolbar is shown correctly
+    * Check that it content_main is shown correctly
+
+# Go to basket and control added product and price
+    * Go to basket
+    * Check the number of products
+    * Check the price
+
+# The menu on the left opens and goes to the 'Baby Care' category
+    * Left menu opens
+    * Go to the 'Baby Care' category in the left menu
+
+# The existence of the page is checked
+    * Check that it tabs is shown correctly
+    * Check that it content_main is shown correctly
+
+
